@@ -1,0 +1,6 @@
+<application>
+  <component name="PomodoroSettings">
+    <option pomodoroLengthInMinutes="pomodoroDuration" value="80" />
+    <option breakLengthInMinutes="breakDuration" value="40" />
+  </component>
+</application>
