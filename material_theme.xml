@@ -3,11 +3,10 @@
     <option name="allowDataCollection" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="true" />
     <option name="accentColor" value="ff9800" />
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-7d3a37f1:163fc63dbd5:-8000" />
-    <option name="version" value="3.10.0" />
+    <option name="version" value="4.11.0" />
   </component>
 </application>
